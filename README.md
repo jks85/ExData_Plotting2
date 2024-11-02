@@ -1,7 +1,7 @@
 # ExData_Plotting2
 Exploratory Data Analysis Course Project #2
 
-*** WRITE PROJECT DESCRIPTION LATER***
+
 
 source data is particulate matter emissions and sources from 1999, 2002, 2005, and 2008
 
